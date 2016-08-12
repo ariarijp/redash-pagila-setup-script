@@ -11,6 +11,8 @@
 Follow the steps below to launch re:dash instance and import Pagila Database.
 
 ```bash
+$ git clone https://github.com/ariarijp/redash-pagila-setup-script.git
+$ cd redash-pagila-setup-script
 $ git clone https://github.com/getredash/redash.git
 $ cd redash
 $ cp ../redash-pagila-setup.sh ./
