@@ -21,7 +21,7 @@ $ vagrant ssh -c "bash /vagrant/redash-pagila-setup.sh"
 $ ./bin/vagrant_ctl.sh start
 ```
 
-Then, open http://localhost:9001
+Then, open [http://localhost:9001](http://localhost:9001)
 
 # License
 
